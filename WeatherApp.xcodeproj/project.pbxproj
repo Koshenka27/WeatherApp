@@ -19,6 +19,7 @@
 		B36862662801B47700157DAA /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = B36862652801B47700157DAA /* ModelData.swift */; };
 		B36862682801B5B400157DAA /* weatherData.json in Resources */ = {isa = PBXBuildFile; fileRef = B36862672801B5B400157DAA /* weatherData.json */; };
 		B368626A2801B6F900157DAA /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B36862692801B6F900157DAA /* Extensions.swift */; };
+		B368626C2801BC6100157DAA /* WeatherRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = B368626B2801BC6000157DAA /* WeatherRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		B36862652801B47700157DAA /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		B36862672801B5B400157DAA /* weatherData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = weatherData.json; sourceTree = "<group>"; };
 		B36862692801B6F900157DAA /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		B368626B2801BC6000157DAA /* WeatherRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				B368625427F5BD7F00157DAA /* WelcomeView.swift */,
 				B368625627F5BEB200157DAA /* LoadingView.swift */,
 				B36862632801B44B00157DAA /* WeatherView.swift */,
+				B368626B2801BC6000157DAA /* WeatherRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				B368624527F5BC1900157DAA /* ContentView.swift in Sources */,
 				B368624327F5BC1900157DAA /* WeatherAppApp.swift in Sources */,
 				B368625127F5BCB700157DAA /* LocationManager.swift in Sources */,
+				B368626C2801BC6100157DAA /* WeatherRow.swift in Sources */,
 				B368625727F5BEB200157DAA /* LoadingView.swift in Sources */,
 				B36862662801B47700157DAA /* ModelData.swift in Sources */,
 				B36862642801B44B00157DAA /* WeatherView.swift in Sources */,
